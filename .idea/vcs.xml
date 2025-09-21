@@ -2,9 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Backend-for-NISARG" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ManagementOrg/Nisssarg" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ManagementOrg/Yash-commits" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/NISARG-FINAL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ManagementOrg" vcs="Git" />
   </component>
 </project>
